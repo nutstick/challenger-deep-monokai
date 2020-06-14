@@ -3,6 +3,10 @@
     "displayName": "Challenger Deep Monokai ",
     "description": "Monokai + Challenger Deep",
     "publisher": "nutstick",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/nutstick/challenger-deep-monokai"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.46.0"
