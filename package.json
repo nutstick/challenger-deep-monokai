@@ -1,0 +1,23 @@
+{
+    "name": "challenger-deep-monokai",
+    "displayName": "Challenger Deep Monokai ",
+    "description": "Monokai + Challenger Deep",
+    "publisher": "nutstick",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Challenger Deep",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-challenger-deep-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png"
+}
